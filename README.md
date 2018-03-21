@@ -17,7 +17,7 @@ Feel free to explore through the code example source files and Let us innovate t
 This repository provides examples demonstrating low power implementation using PSoC 4, mechanisms to field-upgrade the device firmware using various types of bootloaders, Watchdog implementation using PSoC 4 etc.
 If you are new to developing projects with PSoC 4 MCU, we recommend you to refer the PSoC 4 Getting Started GitHub page which can help you familiarize with device features and guides you to create a simple PSoC 4 design with PSoC Creator IDE. For other block specific design please visit the following GitHub Pages:
 
-#### 1. Getting Started
+#### 1. [Getting Started](https://github.com/cypresssemiconductorco/PSoC-4-MCU-Getting-Started)
 #### 2. Analog Designs
 #### 3. [CapSense](https://github.com/cypresssemiconductorco/PSoC-4-MCU-CapSense)
 #### 4. [Digital Designs](https://github.com/cypresssemiconductorco/PSoC-4-MCU-Digital-Designs)
