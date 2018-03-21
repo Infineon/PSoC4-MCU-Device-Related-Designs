@@ -19,10 +19,12 @@ If you are new to developing projects with PSoC 4 MCU, we recommend you to refer
 
 #### 1. Getting Started
 #### 2. Analog Designs
-#### 3. Digital Designs
-#### 4. USB Connectivity Designs
-#### 5. PSoC 4 Pioneer Kit 
-#### 6. System Designs
+#### 3. CapSense
+#### 4. Digital Designs
+#### 5. BLE
+#### 6. USB
+#### 7. PSoC 4 Pioneer Kit
+#### 8. System Design
 
 You can use these block level examples to guide you through the development of a system-level design. All the code examples in this repository comes with well documented design guidelines to help you understand the design and how to develop it. The code examples and their associated documentation are in the Code Example folder in the repository.
 # Required Tools
