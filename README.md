@@ -57,6 +57,21 @@ This code example demonstrates the basic operation of the Bootloader and Bootloa
 #### 2. CE95281 - Bootloader Project with PSoC 4
 This code example demonstrates the basic operation of the Bootloader and Bootloadable components. This is the bootloader application project. Refer to the Bootloadable_PSoC4_code example for the bootloadable application.
 
+### Low Power
+#### 1. CE95321 - Hibernate and Stop Power Modes with PSoC 4
+This code example demonstrates how to enter and wake up from hibernate and stop low power modes, and how to retain SRAM variables in hibernate mode.
+#### 2. CE95322 - Hibernate and Wake Up with PSoC 4
+This System Reference Guide code example demonstrates operation of the Power Manager API with the PSoC Creator Software. The Hibernate low power mode entry and wake up on external event are implemented.
+#### 2. CE95329 - Compensation of ILO Trimming with PSoC 4
+This code example demonstrates the compensation operation of the ILO Trim component for PSoC 4.
+
+
+### Watchdog Timer
+#### 1. CE95400 - Watchdog Timer Reset and Interrupt for PSoC® 41xx/42xx Devices
+This code example demonstrates the basic operation of the WDT: device reset and periodic interrupt generation.
+#### 2. CE95401 - Watchdog timer example using LCD with PSoC 4
+This code example demonstrates basic functionality of PSoC4 watchdog.
+
 
 ## References
 #### 1. PSoC 4 MCU
